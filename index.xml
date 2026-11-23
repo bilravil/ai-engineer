@@ -10,61 +10,61 @@
     <link>https://bilravil.github.io/ai-engineer/templates/</link>
     <guid>https://bilravil.github.io/ai-engineer/templates/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 23 Nov 2026 19:00:39 GMT</pubDate>
+    <pubDate>Mon, 23 Nov 2026 19:01:52 GMT</pubDate>
   </item><item>
     <title>Индекс тегов</title>
     <link>https://bilravil.github.io/ai-engineer/tags/</link>
     <guid>https://bilravil.github.io/ai-engineer/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 23 Nov 2026 19:00:39 GMT</pubDate>
-  </item><item>
-    <title>Prompt Engineering — короткий справочник</title>
-    <link>https://bilravil.github.io/ai-engineer/handbook/prompt-engineering</link>
-    <guid>https://bilravil.github.io/ai-engineer/handbook/prompt-engineering</guid>
-    <description><![CDATA[ ← Справочник · Оглавление раздела Анатомия промпта: формат, роль, контекст и ограничения Input Format Организация входа: сообщения, инструкции, документы и примеры должны быть различимы. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
-  </item><item>
-    <title>Структурированный ответ и вызов функций</title>
-    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/structured-outputs-and-tools</link>
-    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/structured-outputs-and-tools</guid>
-    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Structured output нужен, когда результат должна обработать программа. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
-  </item><item>
-    <title>Техники промптинга: примеры, объяснения и действия</title>
-    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompting-techniques</link>
-    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompting-techniques</guid>
-    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Zero-shot задаёт задачу без демонстрационных пар, few-shot добавляет несколько примеров нужного поведения. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
-  </item><item>
-    <title>Анатомия промпта: формат, роль, контекст и ограничения</title>
-    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompt-anatomy</link>
-    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompt-anatomy</guid>
-    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Рабочий промпт объясняет задачу, доступные факты, правила поведения и ожидаемый результат. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
-  </item><item>
-    <title>Prompt caching и потоковая выдача ответа</title>
-    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/caching-and-streaming</link>
-    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/caching-and-streaming</guid>
-    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Prompt caching может повторно использовать вычислительное состояние общего префикса запросов. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
+    <pubDate>Mon, 23 Nov 2026 19:01:52 GMT</pubDate>
   </item><item>
     <title>AI-агенты и окружение их работы</title>
     <link>https://bilravil.github.io/ai-engineer/01-foundations/agents-and-harness</link>
     <guid>https://bilravil.github.io/ai-engineer/01-foundations/agents-and-harness</guid>
     <description><![CDATA[ ← Введение · Короткий справочник Коротко Агент получает сведения, выбирает действия и выполняет их ради цели. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 18:50:32 GMT</pubDate>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
   </item><item>
     <title>AI, AGI и большие языковые модели</title>
     <link>https://bilravil.github.io/ai-engineer/01-foundations/ai-and-llms</link>
     <guid>https://bilravil.github.io/ai-engineer/01-foundations/ai-and-llms</guid>
     <description><![CDATA[ ← Введение · Короткий справочник Коротко AI — общее название систем, решающих задачи, которые связывают с интеллектом. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 18:50:32 GMT</pubDate>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
   </item><item>
     <title>01. Основы AI Engineering</title>
     <link>https://bilravil.github.io/ai-engineer/01-foundations/</link>
     <guid>https://bilravil.github.io/ai-engineer/01-foundations/</guid>
     <description><![CDATA[ ← Карта обучения · Прогресс · Короткий справочник Как устроено введение 14 учебных вводных понятий объединены в 6 страниц. ]]></description>
-    <pubDate>Mon, 23 Nov 2026 18:50:32 GMT</pubDate>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
+  </item><item>
+    <title>Inference Engineering — скорость, стоимость и надёжность</title>
+    <link>https://bilravil.github.io/ai-engineer/01-foundations/inference-engineering</link>
+    <guid>https://bilravil.github.io/ai-engineer/01-foundations/inference-engineering</guid>
+    <description><![CDATA[ ← Введение · Короткий справочник Коротко Инференс — применение модели; inference engineering — организация его выполнения с нужными задержкой, пропускной способностью, стоимостью и доступностью. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
+  </item><item>
+    <title>Обучение, дообучение и инференс</title>
+    <link>https://bilravil.github.io/ai-engineer/01-foundations/model-lifecycle</link>
+    <guid>https://bilravil.github.io/ai-engineer/01-foundations/model-lifecycle</guid>
+    <description><![CDATA[ ← Введение · Короткий справочник Коротко Training меняет параметры модели на основании данных. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
+  </item><item>
+    <title>Промпты, контекстное окно и проектирование контекста</title>
+    <link>https://bilravil.github.io/ai-engineer/01-foundations/prompts-and-context</link>
+    <guid>https://bilravil.github.io/ai-engineer/01-foundations/prompts-and-context</guid>
+    <description><![CDATA[ ← Введение · Короткий справочник Коротко Prompt engineering помогает сформулировать задачу и требования к ответу. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
+  </item><item>
+    <title>Embeddings, векторный поиск и RAG</title>
+    <link>https://bilravil.github.io/ai-engineer/01-foundations/semantic-search-and-rag</link>
+    <guid>https://bilravil.github.io/ai-engineer/01-foundations/semantic-search-and-rag</guid>
+    <description><![CDATA[ ← Введение · Короткий справочник Коротко Embeddings превращают данные в векторы, которые можно сравнивать. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
+  </item><item>
+    <title>02. Working with LLMs</title>
+    <link>https://bilravil.github.io/ai-engineer/02-working-with-llms/</link>
+    <guid>https://bilravil.github.io/ai-engineer/02-working-with-llms/</guid>
+    <description><![CDATA[ ← Карта обучения · Прогресс · Источник структуры How LLMs Work Центральный узел карты. Core LLM Elements объединяет базовые понятия работы с LLM. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:01:14 GMT</pubDate>
   </item>
     </channel>
   </rss>
