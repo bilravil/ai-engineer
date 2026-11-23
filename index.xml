@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>AI Engineer</title>
+      <link>https://bilravil.github.io/ai-engineer</link>
+      <description>Последние 10 заметок on AI Engineer</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>templates</title>
+    <link>https://bilravil.github.io/ai-engineer/templates/</link>
+    <guid>https://bilravil.github.io/ai-engineer/templates/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:00:39 GMT</pubDate>
+  </item><item>
+    <title>Индекс тегов</title>
+    <link>https://bilravil.github.io/ai-engineer/tags/</link>
+    <guid>https://bilravil.github.io/ai-engineer/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:00:39 GMT</pubDate>
+  </item><item>
+    <title>Prompt Engineering — короткий справочник</title>
+    <link>https://bilravil.github.io/ai-engineer/handbook/prompt-engineering</link>
+    <guid>https://bilravil.github.io/ai-engineer/handbook/prompt-engineering</guid>
+    <description><![CDATA[ ← Справочник · Оглавление раздела Анатомия промпта: формат, роль, контекст и ограничения Input Format Организация входа: сообщения, инструкции, документы и примеры должны быть различимы. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
+  </item><item>
+    <title>Структурированный ответ и вызов функций</title>
+    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/structured-outputs-and-tools</link>
+    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/structured-outputs-and-tools</guid>
+    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Structured output нужен, когда результат должна обработать программа. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
+  </item><item>
+    <title>Техники промптинга: примеры, объяснения и действия</title>
+    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompting-techniques</link>
+    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompting-techniques</guid>
+    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Zero-shot задаёт задачу без демонстрационных пар, few-shot добавляет несколько примеров нужного поведения. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
+  </item><item>
+    <title>Анатомия промпта: формат, роль, контекст и ограничения</title>
+    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompt-anatomy</link>
+    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/prompt-anatomy</guid>
+    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Рабочий промпт объясняет задачу, доступные факты, правила поведения и ожидаемый результат. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
+  </item><item>
+    <title>Prompt caching и потоковая выдача ответа</title>
+    <link>https://bilravil.github.io/ai-engineer/03-prompt-engineering/caching-and-streaming</link>
+    <guid>https://bilravil.github.io/ai-engineer/03-prompt-engineering/caching-and-streaming</guid>
+    <description><![CDATA[ ← Prompt Engineering · Краткий справочник Коротко Prompt caching может повторно использовать вычислительное состояние общего префикса запросов. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 19:00:37 GMT</pubDate>
+  </item><item>
+    <title>AI-агенты и окружение их работы</title>
+    <link>https://bilravil.github.io/ai-engineer/01-foundations/agents-and-harness</link>
+    <guid>https://bilravil.github.io/ai-engineer/01-foundations/agents-and-harness</guid>
+    <description><![CDATA[ ← Введение · Короткий справочник Коротко Агент получает сведения, выбирает действия и выполняет их ради цели. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 18:50:32 GMT</pubDate>
+  </item><item>
+    <title>AI, AGI и большие языковые модели</title>
+    <link>https://bilravil.github.io/ai-engineer/01-foundations/ai-and-llms</link>
+    <guid>https://bilravil.github.io/ai-engineer/01-foundations/ai-and-llms</guid>
+    <description><![CDATA[ ← Введение · Короткий справочник Коротко AI — общее название систем, решающих задачи, которые связывают с интеллектом. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 18:50:32 GMT</pubDate>
+  </item><item>
+    <title>01. Основы AI Engineering</title>
+    <link>https://bilravil.github.io/ai-engineer/01-foundations/</link>
+    <guid>https://bilravil.github.io/ai-engineer/01-foundations/</guid>
+    <description><![CDATA[ ← Карта обучения · Прогресс · Короткий справочник Как устроено введение 14 учебных вводных понятий объединены в 6 страниц. ]]></description>
+    <pubDate>Mon, 23 Nov 2026 18:50:32 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
