@@ -1,0 +1,15 @@
+@use "./variables.scss" as *;
+
+:root { --bodyFont: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+body { font-size: 17px; }
+article { line-height: 1.75; overflow-wrap: anywhere; }
+article p, article li { line-height: 1.75; }
+article h2 { margin-top: 2.2rem; }
+article h3 { margin-top: 1.6rem; }
+article table { font-size: 0.95rem; }
+pre { font-size: 0.9rem; }
+@media (max-width: 800px) {
+  body { font-size: 17px; }
+  article { line-height: 1.8; }
+  article h1 { font-size: 1.85rem; }
+}
